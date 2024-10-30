@@ -1,0 +1,15 @@
+C:\Users\Артем\Desktop\Paralo\bin\Debug\net7.0\paralo.exe
+C:\Users\Артем\Desktop\Paralo\bin\Debug\net7.0\paralo.deps.json
+C:\Users\Артем\Desktop\Paralo\bin\Debug\net7.0\paralo.runtimeconfig.json
+C:\Users\Артем\Desktop\Paralo\bin\Debug\net7.0\paralo.dll
+C:\Users\Артем\Desktop\Paralo\bin\Debug\net7.0\paralo.pdb
+C:\Users\Артем\Desktop\Paralo\obj\Debug\net7.0\paralo.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\Paralo\obj\Debug\net7.0\paralo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\Desktop\Paralo\obj\Debug\net7.0\paralo.AssemblyInfoInputs.cache
+C:\Users\Артем\Desktop\Paralo\obj\Debug\net7.0\paralo.AssemblyInfo.cs
+C:\Users\Артем\Desktop\Paralo\obj\Debug\net7.0\paralo.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Paralo\obj\Debug\net7.0\paralo.dll
+C:\Users\Артем\Desktop\Paralo\obj\Debug\net7.0\refint\paralo.dll
+C:\Users\Артем\Desktop\Paralo\obj\Debug\net7.0\paralo.pdb
+C:\Users\Артем\Desktop\Paralo\obj\Debug\net7.0\paralo.genruntimeconfig.cache
+C:\Users\Артем\Desktop\Paralo\obj\Debug\net7.0\ref\paralo.dll
